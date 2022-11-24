@@ -6,3 +6,7 @@ The files you need are:
 - proposicoesAutores-2022.json
 - votacoesObjetos-2022.json
 - votacoesVotos-2022.json
+
+Put these files inside the "json" directory and enjoy!
+
+OBS: This solution is VERY SLOW. I am NOT a web developer.
