@@ -9,4 +9,6 @@ The files you need are:
 
 Put these files inside the "json" directory and enjoy!
 
-OBS: This solution is VERY SLOW. I am NOT a web developer.
+OBS: This solution is VERY SLOW. I am NOT a web developer, this was the best I could do.
+
+And no, I will not allow this shitty code into my main GitHub repo, which is -> https://github.com/mikurindotc
